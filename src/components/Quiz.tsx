@@ -394,157 +394,157 @@ correctAnswer: "Planes, Trains and Automobiles"
       },
 
       {
-        question: "What is a Git merge used for?",
-        options: [
-          "To create a new branch",
-          "To delete a branch",
-          "To combine changes from one branch into another",
-          "To undo the previous commit"
-        ],
-        correctAnswer: "To combine changes from one branch into another"
+        question: "What is the largest mammal on Earth?",
+options: [
+"Elephant",
+"Blue Whale",
+"Giraffe",
+"Lion"
+],
+correctAnswer: "Blue Whale"
       },
 
       {
-        question: "What is a Git merge used for?",
-        options: [
-          "To create a new branch",
-          "To delete a branch",
-          "To combine changes from one branch into another",
-          "To undo the previous commit"
-        ],
-        correctAnswer: "To combine changes from one branch into another"
+        question: "Who painted the Mona Lisa?",
+options: [
+"Vincent van Gogh",
+"Leonardo da Vinci",
+"Pablo Picasso",
+"Michelangelo"
+],
+correctAnswer: "Leonardo da Vinci"
       },
 
       {
-        question: "What is a Git merge used for?",
-        options: [
-          "To create a new branch",
-          "To delete a branch",
-          "To combine changes from one branch into another",
-          "To undo the previous commit"
-        ],
-        correctAnswer: "To combine changes from one branch into another"
+        question: "Which planet is known as the 'Red Planet'?",
+options: [
+"Earth",
+"Mars",
+"Venus",
+"Jupiter"
+],
+correctAnswer: "Mars"
       },
 
       {
-        question: "What is a Git merge used for?",
-        options: [
-          "To create a new branch",
-          "To delete a branch",
-          "To combine changes from one branch into another",
-          "To undo the previous commit"
-        ],
-        correctAnswer: "To combine changes from one branch into another"
+        question: "Which famous play features the characters of Hamlet, Ophelia, and Claudius?",
+options: [
+"Macbeth",
+"Romeo and Juliet",
+"Hamlet",
+"Julius Caesar"
+],
+correctAnswer: "Hamlet"
       },
 
       {
-        question: "What is a Git merge used for?",
-        options: [
-          "To create a new branch",
-          "To delete a branch",
-          "To combine changes from one branch into another",
-          "To undo the previous commit"
-        ],
-        correctAnswer: "To combine changes from one branch into another"
+        question: "Who is known as the 'Father of Modern Physics'?",
+options: [
+"Isaac Newton",
+"Albert Einstein",
+"Galileo Galilei",
+"Niels Bohr"
+],
+correctAnswer: "Albert Einstein"
       },
 
       {
-        question: "What is a Git merge used for?",
-        options: [
-          "To create a new branch",
-          "To delete a branch",
-          "To combine changes from one branch into another",
-          "To undo the previous commit"
-        ],
-        correctAnswer: "To combine changes from one branch into another"
+        question: "What is the capital city of Japan?",
+options: [
+"Beijing",
+"Seoul",
+"Tokyo",
+"Bangkok"
+],
+correctAnswer: "Tokyo"
       },
 
       {
-        question: "What is a Git merge used for?",
-        options: [
-          "To create a new branch",
-          "To delete a branch",
-          "To combine changes from one branch into another",
-          "To undo the previous commit"
-        ],
-        correctAnswer: "To combine changes from one branch into another"
+        question: "What is the chemical symbol for gold?",
+options: [
+"Ag",
+"Fe",
+"Au",
+"Pb"
+],
+correctAnswer: "Au"
       },
 
       {
-        question: "What is a Git merge used for?",
-        options: [
-          "To create a new branch",
-          "To delete a branch",
-          "To combine changes from one branch into another",
-          "To undo the previous commit"
-        ],
-        correctAnswer: "To combine changes from one branch into another"
+        question: "Who wrote the play 'Romeo and Juliet'?",
+options: [
+"William Shakespeare",
+"Jane Austen",
+"Charles Dickens",
+"Mark Twain"
+],
+correctAnswer: "William Shakespeare"
       },
 
       {
-        question: "What is a Git merge used for?",
+        question: "In which country was the game of chess invented?",
         options: [
-          "To create a new branch",
-          "To delete a branch",
-          "To combine changes from one branch into another",
-          "To undo the previous commit"
+        "India",
+        "China",
+        "Greece",
+        "Egypt"
         ],
-        correctAnswer: "To combine changes from one branch into another"
+        correctAnswer: "India"
       },
 
       {
-        question: "What is a Git merge used for?",
-        options: [
-          "To create a new branch",
-          "To delete a branch",
-          "To combine changes from one branch into another",
-          "To undo the previous commit"
-        ],
-        correctAnswer: "To combine changes from one branch into another"
+        question: "What is the largest organ in the human body?",
+options: [
+"Liver",
+"Heart",
+"Brain",
+"Skin"
+],
+correctAnswer: "Skin"
       },
 
       {
-        question: "What is a Git merge used for?",
+        question: "What is the chemical symbol for the element 'carbon'?",
         options: [
-          "To create a new branch",
-          "To delete a branch",
-          "To combine changes from one branch into another",
-          "To undo the previous commit"
+        "Co",
+        "Ca",
+        "C",
+        "Cr"
         ],
-        correctAnswer: "To combine changes from one branch into another"
+        correctAnswer: "C"
       },
 
       {
-        question: "What is a Git merge used for?",
-        options: [
-          "To create a new branch",
-          "To delete a branch",
-          "To combine changes from one branch into another",
-          "To undo the previous commit"
-        ],
-        correctAnswer: "To combine changes from one branch into another"
+        question: "Who painted the famous artwork 'Starry Night'?",
+options: [
+"Vincent van Gogh",
+"Pablo Picasso",
+"Leonardo da Vinci",
+"Claude Monet"
+],
+correctAnswer: "Vincent van Gogh"
       },
 
       {
-        question: "What is a Git merge used for?",
-        options: [
-          "To create a new branch",
-          "To delete a branch",
-          "To combine changes from one branch into another",
-          "To undo the previous commit"
-        ],
-        correctAnswer: "To combine changes from one branch into another"
+        question: "In Greek mythology, who is the king of the gods?",
+options: [
+"Zeus",
+"Hades",
+"Poseidon",
+"Apollo"
+],
+correctAnswer: "Zeus"
       },
 
       {
-        question: "What is a Git merge used for?",
+        question: "Which city is famous for being home to the Eiffel Tower?",
         options: [
-          "To create a new branch",
-          "To delete a branch",
-          "To combine changes from one branch into another",
-          "To undo the previous commit"
+        "London",
+        "Rome",
+        "Paris",
+        "Berlin"
         ],
-        correctAnswer: "To combine changes from one branch into another"
+        correctAnswer: "Paris"
       },
 
     // Add more questions here
